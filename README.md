@@ -22,6 +22,12 @@ This tool scans a target IP address or domain and checks which ports are open.
 
 ---
 
+## Vulnerablities
+
+- Easy to block (Firewall can block repeated connections, blacklist your IP and trigger alerts)
+- Not scalable for large networks
+- Limited detection capability (It does not detect what service is running)
+
 ## How to run
 
 Run the script:
