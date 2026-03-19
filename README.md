@@ -1,6 +1,6 @@
 # Python Port Scanner
 
-A simple multithreaded TCP port scanner built in Python for learning cybersecurity and networking basics.
+This is a simple Python tool that checks which ports are opened on a target machine.
 
 ---
 
