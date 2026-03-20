@@ -10,6 +10,6 @@ def port_scanner(ip, ports):
 
 # Example 
 if __name__ == "__main__":
-    target_ip = "8.8.8.8"  
+    target_ip = "127.0.0.1"  
     target_ports = range(20, 300)  
     port_scanner(target_ip, target_ports)
